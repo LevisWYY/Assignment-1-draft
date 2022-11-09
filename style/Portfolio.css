@@ -33,8 +33,11 @@ a:hover{
 	font-weight: bolder;
 }
 
-a img{
+a img a:hover{
 	border:none;
+	transition: all 2s ease-in;
+	cursor: pointer;
+	filter: contrast(100%);
 }
 
 /* Headings: */
@@ -232,4 +235,27 @@ footer a.by{
 
 footer a.up{
 	float:right;
+}
+
+.image{
+	text-align: center;
+  	padding: 1rem;
+	transition: all 1s ease-out;
+}
+
+.image:hover{
+	transition: all 1s ease-out;
+	cursor: pointer;
+  	filter: brightness(200%);
+}
+
+.ProfileIcon{
+	padding: 1rem;
+	transition: all 7s ease-in;
+}
+
+.ProfileIcon:hover{
+	transition: all 7s ease-in;
+	cursor: pointer;
+  	filter: brightness(250%);
 }
