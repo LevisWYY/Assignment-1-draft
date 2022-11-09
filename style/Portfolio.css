@@ -362,3 +362,37 @@ footer a.up{
 	cursor: pointer;
   	filter: brightness(50%);
 }
+
+.CoverImage{
+	text-align: center;
+	transition: all 2s ease-in-out;
+	padding: 1rem;
+}
+
+.CoverImage:hover{
+	transition: all 1s ease-in-out;
+	cursor: pointer;
+  	filter: brightness(50%);
+}
+
+.MusicImage{
+	transition: all 1s ease-in-out;
+	padding: 1rem;
+}
+
+.MusicImage:hover{
+	transition: all 1s ease-in-out;
+	cursor: pointer;
+  	filter: brightness(50%);
+}
+
+.FinalPage{
+	transition: all 1s ease-in-out;
+	padding: 1rem;
+}
+
+.FinalPage:hover{
+	transition: all 1s ease-in-out;
+	cursor: pointer;
+  	filter: brightness(50%);
+}
