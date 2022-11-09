@@ -259,3 +259,106 @@ footer a.up{
 	cursor: pointer;
   	filter: brightness(250%);
 }
+
+.Colleges{
+	transition: all 1s ease-in-out;
+	padding: 1rem;
+}
+
+.Colleges:hover{
+	transition: all 1s ease-in-out;
+	cursor: pointer;
+  	filter: brightness(150%);
+}
+
+.ColumbiaInternationalCollege{
+	text-align: center;
+	transition:cubic-bezier(0.075, 0.82, 0.165, 1);
+	padding: 1rem;
+}
+
+.ColumbiaInternationalCollege:hover{
+	transition:cubic-bezier(0.075, 0.82, 0.165, 1);
+	cursor: pointer;
+  	filter: brightness(100%);
+}
+
+.Conestoga{
+	text-align: center;
+	transition: all 1s ease-in-out;
+	padding: 1rem;
+}
+
+.Conestoga:hover{
+	transition: all 1s ease-in-out;
+	cursor: pointer;
+  	filter: brightness(150%);
+}
+
+.Hobbies{
+	text-align: center;
+	transition: all 1s ease-in-out;
+	padding: 1rem;
+}
+
+.Hobbies:hover{
+	transition: all 1s ease-in-out;
+	cursor: pointer;
+  	filter: brightness(150%);
+}
+
+.Music{
+	transition: all 1s ease-in-out;
+	padding: 1rem;
+}
+
+.Music:hover{
+	transition: all 1s ease-in-out;
+	cursor: pointer;
+  	filter: brightness(150%);
+}
+
+.Travel{
+	transition: all 1s ease-in-out;
+	padding: 1rem;
+}
+
+.Travel:hover{
+	transition: all 1s ease-in-out;
+	cursor: pointer;
+  	filter: brightness(150%);
+}
+
+.WatchingVideos{
+	transition: all 2s ease-in-out;
+	padding: 1rem;
+}
+
+.WatchingVideos:hover{
+	transition: all 2s ease-in-out;
+	cursor: pointer;
+  	filter: brightness(300%);
+}
+
+.AboutMe{
+	text-align: center;
+	transition: all 1s ease-in-out;
+	padding: 1rem;
+}
+
+.AboutMe:hover{
+	transition: all 1s ease-in-out;
+	cursor: pointer;
+  	filter: brightness(350%);
+}
+
+.FrontEndDesign{
+	transition: all 1s ease-in-out;
+	padding: 1rem;
+}
+
+.FrontEndDesign:hover{
+	transition: all 1s ease-in-out;
+	cursor: pointer;
+  	filter: brightness(50%);
+}
